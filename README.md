@@ -27,7 +27,7 @@ Connects multiple roles — admin, doctors, staff, patients, pharmacists, and la
 - Digital prescriptions and lab report management  
 - Secure billing, analytics, and teleconsultation  
 
-🔗 [View Project Repository](https://github.com/sona-s-hp/hospital-management)
+🔗 [View Project Repository](https://github.com/its-sona-s/hospital-management)
 
 ---
 
@@ -60,9 +60,8 @@ Features:
 📍 **Location:** Alappuzha, Kerala  
 📧 **Email:** sona.s1411@gmail.com  
 🔗 **LinkedIn:** [www.linkedin.com/in/sona-s-86589121a](https://www.linkedin.com/in/sona-s-86589121a)  
-💻 **GitHub:** [github.com/sona-s-hp](https://github.com/sona-s-hp)
+💻 **GitHub:** [github.com/its-sona-s](https://github.com/its-sona-s)
 
 ---
 
-⭐ _“Code with curiosity, learn with consistency, and build with creativity.”_
-
+⭐ _"Code with curiosity, learn with consistency, and build with creativity."_
